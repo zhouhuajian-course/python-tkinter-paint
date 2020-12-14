@@ -1,0 +1,7 @@
+文件对话框 filedialog
+消息对话框 messagebox
+
+原理
+canvas没有保存图片的功能
+
+屏幕截图的方式来实现保存图片

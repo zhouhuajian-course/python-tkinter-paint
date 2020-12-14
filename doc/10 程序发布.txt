@@ -1,0 +1,12 @@
+# 程序发布
+# pyinstaller --name 绘图 --icon image/app.ico  --onefile --noconsole paint.py
+
+pyinstaller   pip install pyinstaller
+
+--name 绘图    程序发布的名字
+--icon image/app.ico   设置程序的图标
+--onefile      发布目录只生成一个可执行文件
+--noconsole    不需要控制台
+paint.py   程序入口文件
+
+Windows Linux Mac

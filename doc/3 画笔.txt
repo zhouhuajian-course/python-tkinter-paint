@@ -1,0 +1,5 @@
+3种布局方式
+
+1. pack 打包 side
+2. grid 网格 row column 行和列
+3. place 绝对定位布局
